@@ -247,6 +247,7 @@ public class Bike {
         merida.turnRight();
         merida.turnRight();
         merida.printInfo();
+        merida.printInfo();
 
     }
 }
